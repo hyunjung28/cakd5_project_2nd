@@ -1,6 +1,15 @@
 # BERT 활용 와인 추첫 챗봇 구현  
 
  [youtube] (https://youtu.be/NyPJ3vb-osE)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/BERT-6DB33F?style=flat-square&logo=BERT&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Flask-092E20?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML-E6B91E?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/javascript-333664?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/css-005571?style=flat-square&logo=css&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/visualstudio-64335F?style=flat-square&logo=visualstudio&logoColor=white"/></a>&nbsp
+</p>
 
 
 ## Project 2
