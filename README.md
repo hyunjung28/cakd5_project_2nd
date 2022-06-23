@@ -1,6 +1,7 @@
 # BERT 활용 와인 추첫 챗봇 구현  
 
- [youtube] (https://youtu.be/NyPJ3vb-osE)
+- 🍷 Cakd5 2nd porject
+- [youtube] (https://youtu.be/NyPJ3vb-osE)
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/BERT-6DB33F?style=flat-square&logo=BERT&logoColor=white"/></a>&nbsp 
