@@ -15,11 +15,11 @@
 
 
 
-#### 👨‍👩‍👦‍👦 TeamMembers  
+#### 👨‍👩‍👦‍👦 Contribution  
 
 - [`권혁종`](https://github.com/gitHek) &nbsp; 기획총괄,코딩총괄
 - [`이현정`](https://github.com/hyunjung28) &nbsp; 기획보조,PT
-- [`이동연`](https://github.com/movingkite) &nbsp;-데이터 수집, 챗봇 개발 보조
+- [`이동연`](https://github.com/movingkite) &nbsp; 데이터 수집, 챗봇 개발 보조
 - [`박종석`](https://github.com/blazestar95) &nbsp; 데이터수집,시나리오 구상
 - [`김민성`](https://github.com/nycticebus0915) &nbsp; 슬롯태깅, 모델 성능 개선 보조
 - [`오주완`](https://github.com/joowaun93) &nbsp; 기획보조, 모델 구현 보조
